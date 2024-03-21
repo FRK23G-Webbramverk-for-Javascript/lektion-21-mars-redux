@@ -1,4 +1,4 @@
-# lektion-21-mars-redux
+# Lektion 21 mars: Redux
 
 ## Övningar
 
